@@ -1,0 +1,10 @@
+D:\Projects\C#\Windows Form Apps\MyCalculater\bin\Debug\MyCalculater.exe.config
+D:\Projects\C#\Windows Form Apps\MyCalculater\bin\Debug\MyCalculater.exe
+D:\Projects\C#\Windows Form Apps\MyCalculater\bin\Debug\MyCalculater.pdb
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.csproj.AssemblyReference.cache
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.Form1.resources
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.Properties.Resources.resources
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.csproj.GenerateResource.cache
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.exe
+D:\Projects\C#\Windows Form Apps\MyCalculater\obj\Debug\MyCalculater.pdb
